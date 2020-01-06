@@ -14,11 +14,11 @@
  
 
 ## :pencil:背景和意义：
-###背景：
+### 背景：
 - 人口老龄化会使一个国家的人口年龄结构和劳动年龄结构发生变化,老年人口相对数量和绝对数量的增加会对经济发展造成了一系列影响。而人口老龄化对劳动生产率的影响在不同时期有显著差异,呈现明显的动态特征。短期内,人口老龄化在当期和滞后一期对劳动生产率的影响显著不同。
 - 参考文献：[《老龄化与就业不振：警惕“未富先老”的低生育率陷阱》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=RKJK201907015&v=MDg4ODBOeWJCWmJHNEg5ak1xSTlFWVlSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZadVpwRnlubVdydk0=)
 - 参考文献：[《人口老龄化对劳动生产率的影响》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=RKYZ201906002&v=MTA1OTExVDNxVHJXTTFGckNVUjdxZlp1WnBGeW5tVmI3Sk55YlNkTEc0SDlqTXFZOUZab1I4ZVgxTHV4WVM3RGg=)
-###意义：
+### 意义：
 - 随着社会的发展，国家的一些政策问题解决了一些社会痛点，比如精准扶贫带来了大量的就业机会。但也反映了我国劳动人口不足，老龄化进程加快的现实。
 - 通过探讨精准扶贫对人口老龄化和就业带来的不同影响，以此能解决我国现在的老龄化问题。以此思考是否可以通过兴新老年产业或者是发展老人大学等来解决该问题。
 
