@@ -6,7 +6,10 @@
 > 用于《交互式可视化设计》与《python》实践，自我策展项目
 
 ## :pushpin:项目名称：这个"业"你还将就吗？:pushpin:
-## :accept:项目展示地址[zxpzxp.cn](http://zxpzxp.cn/)
+## :accept: 项目展示地址[zxpzxp.cn](http://zxpzxp.cn/)
+- [数据故事一：人口老龄化](http://zxpzxp.cn/word)
+- [数据故事二：精准扶贫](http://zxpzxp.cn/fpgy)
+- [项目技术文档](https://github.com/huangjieqi/python)
 ## :paperclip:项目目的：
  - 我的项目分别是精准扶贫后城乡就业的变化趋势和人口老龄化对劳动人口的压力之间的关系。最后分别探讨精准扶贫对人口老龄化对就业带来的不同影响。
  - 通过数据可视化分析精准扶贫后的现状，通过可视化界面展现城乡就业与发展在精准扶贫后的变化，探讨精准扶贫政策对城乡结构、就业发展的影响，并进行总结建议。
@@ -30,7 +33,7 @@
 ## :octocat:项目内容：
 ### :one:数据集
 - 集合多个现有数据库的数据，且数据完整，有多层次可以供分析的角度
-- [数据库仓库]()
+- [数据库仓库](https://github.com/zhengxiaopingzxp/python/tree/master/data)
 
 ### :two:数据故事的选题
 选题很有社会价值，并且作品中的阐述方式新颖，很有吸引力
@@ -68,6 +71,11 @@
 
 
 ### 链接：
+- [项目技术文档](https://github.com/huangjieqi/python)
+- [数据故事一：人口老龄化](http://zxpzxp.cn/word)
+- [数据故事二：精准扶贫](http://zxpzxp.cn/fpgy)
+- 参考文献：[《老龄化与就业不振：警惕“未富先老”的低生育率陷阱》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=RKJK201907015&v=MDg4ODBOeWJCWmJHNEg5ak1xSTlFWVlSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVI3cWZadVpwRnlubVdydk0=)
+- 参考文献：[《人口老龄化对劳动生产率的影响》](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=RKYZ201906002&v=MTA1OTExVDNxVHJXTTFGckNVUjdxZlp1WnBGeW5tVmI3Sk55YlNkTEc0SDlqTXFZOUZab1I4ZVgxTHV4WVM3RGg=)
 - [Argon Dashboard UI](https://www.creative-tim.com/product/argon-dashboard) - crafted by Creative-Tim agency
 - [Flask Gentelella](https://github.com/afourmy/flask-gentelella) - author **Antoine Fourmy**
 - [Flask Boilerplate Dashboard Argon](https://appseed.us/admin-dashboards/flask-boilerplate-dashboard-argon) - Product page
